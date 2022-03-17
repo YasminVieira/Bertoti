@@ -1,4 +1,9 @@
-<h2>Atividade de Requisitos :construction_worker_woman:</h2>
+<h4><b>Nome:</b> Yasmin Aparecida Vieira <b>RA:</b> 1460482121014</h4>
+
+<h2>Ciclo de Vida do Desenvolvimento de Software :seedling:
+(Plataforma de Ensino)</h2>
+
+<h3>Atividade de Requisitos :construction_worker_woman:</h2>
 
 <h3>:mag_right: Coletar os requisitos funcionais e não-funcionais do sistema</h3>
 
@@ -12,3 +17,5 @@ Como um requisito funcional específico, foi desenvolvido um Diagrama de Casos d
 Dentro dos requisitos não-funcionais, foi desenvolvido uma interface de simples acesso e uso às funções do sistema (Usabilidade) [:computer_mouse:](https://github.com/YasminVieira/Bertoti/blob/main/Engenharia%20de%20Software%20I/requisitosNaoFuncionais.jpg)
 
 <h4><p><b>:dart: Objetivo da Atividade:</b> Transformar os requisitos (tanto funcionais quanto não-funcionais) em algo que possa ser implementado.</h4>
+
+<h3>Projeto :construction_worker_woman:</h2>
