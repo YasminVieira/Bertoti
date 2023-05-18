@@ -1,3 +1,3 @@
 public interface Estrategia {
-    public void comandoDeAcao();
+    void comandoDeAcao();
 }
